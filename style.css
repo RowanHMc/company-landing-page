@@ -9,6 +9,11 @@ nav{
 ul{
     list-style: none;
     color:rgb(19, 39, 141)
+    
+}
+a{
+    text-decoration: none;
+    
 }
 h1, h2{
     text-align:center ;
@@ -18,4 +23,7 @@ h1, h2{
 h3{
     text-align: left;
     padding: auto;
+}
+footer{
+    background-color: bisque;
 }
